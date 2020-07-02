@@ -10,6 +10,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"@babel/plugin-transform-flow-strip-types": "^7.10.4",
 		"@reduxjs/toolkit": "^1.0.4",
 		"@ungap/url-search-params": "^0.1.2",
 		"@youi/react-native-youi": "5.15.0",
